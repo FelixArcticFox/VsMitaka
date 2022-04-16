@@ -1,0 +1,170 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "last-corridor",
+		"player1": "MitakaPlayer",
+		"player2": "Felix",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				70.4225352112676,
+				[
+					[
+						"Set Camera Zoom",
+						"2",
+						"7"
+					]
+				]
+			],
+			[
+				2253.52112676056,
+				[
+					[
+						"imageflash2",
+						"Warned",
+						"9"
+					]
+				]
+			],
+			[
+				5563.38028169014,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				6830.98591549296,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				9014.08450704225,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				13802.8169014084,
+				[
+					[
+						"boxOpen",
+						"blasterCross",
+						""
+					]
+				]
+			],
+			[
+				13943.661971831,
+				[
+					[
+						"handlerUndertale",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14084.5070422535,
+				[
+					[
+						"handlerTextBox",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17183.0985915493,
+				[
+					[
+						"boxClose",
+						"blasterCross",
+						""
+					]
+				]
+			],
+			[
+				27887.323943662,
+				[
+					[
+						"Set Camera Zoom",
+						"1.5",
+						"4"
+					]
+				]
+			],
+			[
+				38591.5492957746,
+				[
+					[
+						"boxOpen",
+						"gravThrow",
+						""
+					]
+				]
+			],
+			[
+				42676.0563380282,
+				[
+					[
+						"boxClose",
+						"gravThrow",
+						""
+					]
+				]
+			],
+			[
+				47746.4788732394,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				49647.8873239437,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "None",
+		"bpm": 213,
+		"mania": 5,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "unexpected-start"
+	}
+}

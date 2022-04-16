@@ -1,0 +1,130 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "out",
+		"player1": "bf",
+		"player2": "Mitaka",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				77.319587628866,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				154.639175257732,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				231.958762886598,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				309.278350515464,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				386.59793814433,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				463.917525773196,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				541.237113402062,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				618.556701030928,
+				[
+					[
+						"LinearAlphaOPT",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				69123.7113402062,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				88917.525773196,
+				[
+					[
+						"Play Animation",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 194,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "TemCore"
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				8
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "ChineseRydify Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ChineseRydify Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ChineseRydify Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ChineseRydify Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ChineseRydify Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				8
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "ChineseRydify Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				6
+			],
+			"anim": "singLEFT-loop",
+			"fps": 16,
+			"name": "ChineseRydify Left",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				6
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 16,
+			"name": "ChineseRydify Right",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				6
+			],
+			"anim": "singUP-loop",
+			"fps": 16,
+			"name": "ChineseRydify Up",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				6
+			],
+			"anim": "singDOWN-loop",
+			"fps": 16,
+			"name": "ChineseRydify Down",
+			"indices": [
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ChineseRydify",
+	"position": [
+		-420,
+		-620
+	],
+	"healthicon": "chineseRydify",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		420,
+		620
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

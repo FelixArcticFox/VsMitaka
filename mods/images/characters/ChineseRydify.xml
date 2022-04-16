@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ChineseRydify.png"><SubTexture name="ChineseRydify Idle0000" x="1433" y="1411" width="702" height="1390" frameX="-372" frameY="-387" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0001" x="2888" y="1375" width="702" height="1372" frameX="-372" frameY="-405" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0002" x="3660" y="1372" width="702" height="1364" frameX="-372" frameY="-415" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0003" x="0" y="2817" width="702" height="1352" frameX="-372" frameY="-428" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0004" x="702" y="2817" width="706" height="1350" frameX="-371" frameY="-431" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0005" x="1433" y="1411" width="702" height="1390" frameX="-372" frameY="-387" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0006" x="1433" y="1411" width="702" height="1390" frameX="-372" frameY="-387" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0007" x="1433" y="1411" width="702" height="1390" frameX="-372" frameY="-387" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0008" x="1433" y="1411" width="702" height="1390" frameX="-372" frameY="-387" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Idle0009" x="1433" y="1411" width="702" height="1390" frameX="-372" frameY="-387" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Left0000" x="702" y="1411" width="731" height="1393" frameX="-356" frameY="-382" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Left0001" x="2148" y="0" width="740" height="1408" frameX="-356" frameY="-374" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Left0002" x="702" y="0" width="744" height="1410" frameX="-350" frameY="-371" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Right0000" x="2135" y="1411" width="733" height="1375" frameX="-393" frameY="-396" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Right0001" x="3660" y="0" width="748" height="1372" frameX="-404" frameY="-394" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Right0002" x="2888" y="0" width="772" height="1375" frameX="-416" frameY="-391" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Up0000" x="0" y="1411" width="702" height="1406" frameX="-372" frameY="-367" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Up0001" x="0" y="0" width="702" height="1411" frameX="-372" frameY="-360" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Up0002" x="1446" y="0" width="702" height="1410" frameX="-372" frameY="-360" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Down0000" x="1408" y="2817" width="743" height="1322" frameX="-343" frameY="-441" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Down0001" x="2911" y="2817" width="745" height="1321" frameX="-343" frameY="-446" frameWidth="1440" frameHeight="1984" />
+<SubTexture name="ChineseRydify Down0002" x="2151" y="2817" width="760" height="1322" frameX="-343" frameY="-446" frameWidth="1440" frameHeight="1984" />
+</TextureAtlas>

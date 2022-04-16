@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mitakapotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and you're good.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thanks)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mitakapotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe we'll sing something nice?"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course!"
+		}
+	]
+}

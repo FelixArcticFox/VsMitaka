@@ -1,0 +1,40 @@
+{
+	"storyName": "Extra",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"omelo-funkin",
+			"chineseRydify",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"beep-power",
+			"brakora",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "3Extra"
+}

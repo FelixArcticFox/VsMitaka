@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MitakaDeath.png"><SubTexture name="MitakaDeath dies0000" x="0" y="0" width="1248" height="2365" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath dies0001" x="1248" y="0" width="1248" height="2355" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath dies0002" x="3744" y="0" width="1248" height="2341" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath dies0003" x="0" y="2365" width="1248" height="2341" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath LoopDeath0000" x="1248" y="2365" width="1248" height="2341" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath LoopDeath0001" x="2496" y="2365" width="1248" height="2341" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath LoopDeath0002" x="2496" y="0" width="1248" height="2346" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath LoopDeath0003" x="3744" y="2365" width="1248" height="2341" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="MitakaDeath Confirm0000" x="4992" y="0" width="1248" height="2341" frameX="-27" frameY="-155" frameWidth="1440" frameHeight="2560" />
+</TextureAtlas>

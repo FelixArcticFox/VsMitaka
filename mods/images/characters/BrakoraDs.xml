@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BrakoraDs.png"><SubTexture name="BrakoraDs Idle0000" x="0" y="0" width="299" height="152" frameX="0" frameY="0" frameWidth="299" frameHeight="152" />
+<SubTexture name="BrakoraDs Up0000" x="0" y="304" width="299" height="73" frameX="0" frameY="0" frameWidth="299" frameHeight="152" />
+<SubTexture name="BrakoraDs Down0000" x="387" y="0" width="299" height="64" frameX="0" frameY="-88" frameWidth="299" frameHeight="152" />
+<SubTexture name="BrakoraDs Left0000" x="299" y="0" width="88" height="152" frameX="0" frameY="0" frameWidth="299" frameHeight="152" />
+<SubTexture name="BrakoraDs Right0000" x="0" y="152" width="95" height="152" frameX="-204" frameY="0" frameWidth="299" frameHeight="152" />
+</TextureAtlas>

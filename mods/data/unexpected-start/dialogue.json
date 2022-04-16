@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "felixpotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who is it we have here?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "mitakapotret-player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm Mitaka, do you want to rap battle with me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "felixpotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay good, but...."
+		},
+		{
+			"speed": 0.12,
+			"portrait": "mitakapotret-player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..?"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "felixpotret",
+			"boxState": "normal",
+			"expression": "flirt",
+			"text": "We'll play my 'game'"
+		}
+	]
+}

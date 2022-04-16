@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey you look like Mitaka"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mitakapotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am Mitaka"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, can you make me an advertisement?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mitakapotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if you win my rap battle>:3"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "cool!"
+		}
+	]
+}

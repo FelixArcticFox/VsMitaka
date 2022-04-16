@@ -1,0 +1,49 @@
+{
+	"storyName": "Chapter1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Mitaka",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"power-link",
+			"mitaka",
+			[
+				66,
+				113,
+				253
+			]
+		],
+		[
+			"hotmilk",
+			"mitaka",
+			[
+				206,
+				93,
+				193
+			]
+		],
+		[
+			"temCore",
+			"mitaka",
+			[
+				146,
+				253,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "1Mitaka"
+}

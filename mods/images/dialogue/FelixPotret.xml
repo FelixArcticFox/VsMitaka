@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FelixPotret.png"><SubTexture name="FelixPotret Normal0000" x="0" y="0" width="997" height="1381" frameX="-677" frameY="-83" frameWidth="1780" frameHeight="1464" />
+<SubTexture name="FelixPotret Normal0001" x="997" y="0" width="997" height="1381" frameX="-677" frameY="-83" frameWidth="1780" frameHeight="1464" />
+<SubTexture name="FelixPotret Normal0002" x="1994" y="0" width="997" height="1381" frameX="-677" frameY="-83" frameWidth="1780" frameHeight="1464" />
+<SubTexture name="FelixPotret Flirt0000" x="0" y="1381" width="985" height="1366" frameX="-636" frameY="-98" frameWidth="1780" frameHeight="1464" />
+<SubTexture name="FelixPotret Flirt0001" x="985" y="1381" width="985" height="1366" frameX="-636" frameY="-98" frameWidth="1780" frameHeight="1464" />
+</TextureAtlas>

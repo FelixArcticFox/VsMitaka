@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won!"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "mitakapotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay, I'll make your ad"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "very good"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe another song?"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "mitakapotret",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes! I want to sing one meme..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "cool"
+		}
+	]
+}
